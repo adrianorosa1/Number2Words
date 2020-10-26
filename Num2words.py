@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[24]:
-
-
 ######### this block let the user input the name of the .txt file located on his/her desktop 
 txt_file = input('Enter the name of the .txt file that sits in your Destop WITHOUT the .txt extension: ')
 
